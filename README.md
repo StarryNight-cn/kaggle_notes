@@ -1,2 +1,2 @@
-# kaggle_notes
-Notes from learning on Kaggle.
+# Kaggle notes
+Notes from learning on Kaggle.For personal use.
